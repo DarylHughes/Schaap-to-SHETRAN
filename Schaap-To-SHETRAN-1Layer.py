@@ -39,13 +39,13 @@ The user must define:
 
 #%% User-defined variables
 
-FunctionsLibrary    = 'C:/Users/DH/OneDrive - Heriot-Watt University/Documents/HydrosystemsModellerRA/Writing(Shared)/Paper1/Code' # Set to directory containing CustomFunctionsToSHETRAN.py
-DirectoryIn         = 'C:/Users/DH/OneDrive - Heriot-Watt University/Documents/HydrosystemsModellerRA/HydroModelling/HydroInputData/GeologyAndSoil/Hydraul_Param_SoilGrids_Schaap_0/DataGIS/' # Set to directory containing GIS-processed data. NB string must terminate with '/'
-ResolutionKM        = '5km'
-DirectoryOut        = 'C:/Users/DH/Downloads/'
-SuperCatsOut        = 'SoilCats_3Layer'
-SoilPropertiesOut   = 'SoilProperties_3Layer'
-SoilDetailsOut      = 'SoilDetails_3Layer'
+FunctionsLibrary    = ''
+DirectoryIn         = '' # Set to directory containing GIS-processed data. NB string must terminate with '/'
+ResolutionKM        = ''
+DirectoryOut        = ''
+SuperCatsOut        = ''
+SoilPropertiesOut   = ''
+SoilDetailsOut      = ''
 
 
 #%% Import modules and functions
